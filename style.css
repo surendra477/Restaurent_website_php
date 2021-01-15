@@ -1,0 +1,97 @@
+.nav-link{
+    text-transform: uppercase;
+    font-size: large;
+    transition: all .4s;
+}
+.navs{
+    background-color: white;
+    width: 100%;
+}
+.nav-link:hover{
+    border-bottom: 2px solid green;
+    /* padding: 30px; */
+    transition: all .4s;
+}
+
+nav{
+    box-shadow: 2px -2px 0px 5px rgba(0, 0, 0, 0.288);
+}
+
+#head1{
+    font-size: 65px;
+    margin-top: 5em;
+}
+
+.home{
+    background-image: url(https://images.cnbctv18.com/wp-content/uploads/2020/07/jason-leung-poI7DelFiVA-unsplash-1-768x432.jpg);
+    background-size: cover;
+    height: 753px;
+    color: white;
+    background-attachment: fixed;
+}
+#header{
+    padding-top: 20em;
+}
+#btn{
+    font-size: 25px;
+    margin-top: 3rem;
+}
+.line{
+    width: 100%;
+    height: 5px;
+    background-color: lightgreen;
+}
+
+.wit{
+    height: 400px;
+    width: 600px;
+}
+
+.mlmr{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.ml {
+    margin-left: 25px;
+   
+}
+.menu{
+    background-color: rgb(223, 223, 223);
+}
+
+.img-min{
+    height: 300px;
+    width: 250px;
+}
+
+.card-title{
+    font-size: 35px;
+
+}
+
+.card-text{
+    font-size: 24px;
+}
+
+.card{
+ transition:all .5s;
+}
+
+.card:hover{
+    transition:all .5s;
+    box-shadow: 2px 2px 0px 2px rgba(0, 0, 0, 0.212);
+}
+
+.img-slide-show{
+    min-height: 700px;
+    max-height: 700px;
+}
+
+.card-img1{
+    min-height: 300px;
+    max-height: 300px;
+}
+
+.news{
+    background-color: rgb(221, 186, 186);
+}
